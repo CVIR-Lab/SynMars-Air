@@ -1,4 +1,4 @@
-# SynMars-Air
+# AirFormer: Learning-Based Object Detection For Mars Helicopter
 
 The repository contains the official dataset of Airformer model, which is currently being submitted to the journal IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING.
 
